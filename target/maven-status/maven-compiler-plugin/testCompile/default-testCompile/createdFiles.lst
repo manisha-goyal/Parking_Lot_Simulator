@@ -1,0 +1,5 @@
+com/parking_lot/lot/ParkingLotTest.class
+com/parking_lot/input/InputCommandsTest.class
+com/parking_lot/input/InputParserTest.class
+com/parking_lot/customer/CarTest.class
+com/parking_lot/lot/ParkingLotManagerTest.class
