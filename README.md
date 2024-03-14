@@ -31,7 +31,7 @@ commands can be typed in
 2) It should accept a filename as a parameter at the command prompt and read the
 commands from that file
 
-##Getting Started
+## Getting Started
 
 ### System Requirements
 
